@@ -8,11 +8,9 @@
 
 # Навигация по проекту
 
-- [preparatory.py](https://github.com/KirillKlem/CU_in_ML/blob/main/preparatory.py): Здесь выполняются подготовительные этапы проекта: обзор данныз, построение базовых моделей для последующего использования и составления данных для обучения одной из моделей
-- [process_test.py](https://github.com/KirillKlem/CU_in_ML/blob/main/process_test.py): Модуль с функциями для загрузки моделей, извлечения признаков и выполнения преобразований видео и аудио, предсказание тестовых данных.
-- [requirements.txt](https://github.com/KirillKlem/CU_in_ML/blob/main/requirements.txt): Список всех необходимых библиотек и зависимостей, необходимых для работы проекта.
-- [notebooks](https://github.com/KirillKlem/CU_in_ML/tree/main/notebooks): Папка с изначальными ноутбуками, где ещё код по большей части не структурирован 
-- [README.md](https://github.com/KirillKlem/CU_in_ML/blob/main/README.md): Описание проекта и его функционала, включая установку и краткое руководство по использованию.
+- [preparatory.py](https://github.com/ave2407/Video_duplicates/blob/main/preparatory.py): Здесь выполняются подготовительные этапы проекта: обзор данныз, построение базовых моделей для последующего использования и составления данных для обучения одной из моделей
+- [process_test.py](https://github.com/ave2407/Video_duplicates/blob/main/process_test.py): Модуль с функциями для загрузки моделей, извлечения признаков и выполнения преобразований видео и аудио, предсказание тестовых данных.
+- [requirements.txt](https://github.com/ave2407/Video_duplicates/blob/main/requirements.txt): Список всех необходимых библиотек и зависимостей, необходимых для работы проекта.
 
 ## Краткое руководство по проекту:
 
